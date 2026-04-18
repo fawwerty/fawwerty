@@ -1,120 +1,186 @@
-🚀 Nathaniel Senior Kwafo
-Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast
+<div align="center">
 
-Building scalable, intelligent systems at the intersection of software engineering, AI, and cybersecurity
-🎓 BSc. Computer Science — Accra Institute of Technology, Ghana 🇬🇭
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=1A56DB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nathaniel+Senior+Kwafo;Full-Stack+Developer+%7C+ML+Engineer;Building+AI+%26+Cybersecurity+Systems;Open+to+Global+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
-👨‍💻 About Me
+<br/>
 
-I’m a results-driven full-stack developer and machine learning engineer focused on building real-world systems that solve practical problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-senior-kwafo-922214257)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwerty)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwafonathanielsenior@gmail.com)
+[![Location](https://img.shields.io/badge/Accra%2C%20Ghana-%F0%9F%87%AC%F0%9F%87%AD-1A56DB?style=for-the-badge)](https://github.com/fawwerty)
 
-🛡️ Built CyberShield — an AI-powered real-time cyber threat detection system
-🏢 Interned at ChayilSecureX, contributing to a production-grade GRC cybersecurity platform
-🤖 Strong interest in anomaly detection, applied ML, and AI-driven security systems
-⚡ Experienced across web, mobile, backend systems, and ML pipelines
-🌍 Open to internships, junior roles, and impactful collaborations globally
-🧰 Tech Stack
-🌐 Frontend
+</div>
 
-React · React Native · Tailwind CSS · Bootstrap · Vite · HTML · CSS · JavaScript · TypeScript
+---
 
-⚙️ Backend
+## 👨‍💻 About Me
 
-Node.js · Express · Laravel · FastAPI · Python · JWT Auth
+I'm a **results-driven Full-Stack Developer and ML Engineer** based in Accra, Ghana, building intelligent systems at the intersection of software engineering, AI, and cybersecurity.
 
-🤖 Machine Learning
+- 🛡️ Built **CyberShield** — a real-time AI-powered cyber threat detection system with a React Native mobile client
+- 🏢 Interned at **ChayilSecureX**, contributing to a production-grade enterprise GRC cybersecurity platform
+- 🤖 Strong focus on **anomaly detection**, applied ML pipelines, and AI-driven security tooling
+- ⚡ Experienced across **web, mobile, backend, and ML** — end to end
+- 🌍 **Open to internships, junior roles, and impactful global collaborations**
 
-scikit-learn · Isolation Forest · Extra Trees · Autoencoders · HuggingFace · Feature Engineering
+---
 
-🗄️ Databases
+## 🧰 Tech Stack
 
-PostgreSQL · MySQL · MongoDB · SQLite
+### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,vite,html,css" />
+</p>
 
-🚀 DevOps & Tools
+`React Native` · `Expo` · `Cross-platform Mobile`
 
-Git · GitHub · Docker · Vercel · Postman · Expo
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,python" />
+</p>
 
-🎨 Design
+`JWT Auth` · `RBAC` · `REST APIs`
 
-Figma · Canva · Adobe Photoshop · Illustrator
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Isolation%20Forest-1A56DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autoencoders-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-0E9F6E?style=for-the-badge" />
+</p>
 
-🚀 Featured Projects
-🛡️ CyberShield — AI Cyber Threat Detection System
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+</p>
 
-🔗 Live App: https://cyber-shield-ai-cyber-threat-detect.vercel.app
+### 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,expo" />
+</p>
 
-Real-time intrusion detection powered by an intelligent ML ensemble system
+### 🎨 Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai" />
+</p>
 
-Key Highlights:
+---
 
-⚡ Built a multi-model ensemble system:
-Isolation Forest (unsupervised anomaly detection)
-Extra Trees (supervised learning)
-Deep Autoencoder (neural anomaly detection)
-📊 Processes 20+ engineered network traffic features with StandardScaler
-🚀 FastAPI backend serving real-time predictions
-📱 Integrated with React Native (Expo) mobile app
-☁️ Models versioned and deployed via HuggingFace Hub
+## 🚀 Featured Projects
 
-Tech: Python · FastAPI · scikit-learn · HuggingFace · React Native · Expo
+### 🛡️ CyberShield — AI Cyber Threat Detection System
+> **Real-time network intrusion detection powered by a 3-model ML ensemble, served via FastAPI, monitored from a React Native mobile app.**
 
-🔐 ChayilSecureX — Enterprise Cybersecurity & GRC Platform
+[![Live App](https://img.shields.io/badge/Live%20App-cyber--shield--ai--cyber--threat--detect.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://cyber-shield-ai-cyber-threat-detect.vercel.app)
 
-🔗 Live Platform: https://www.chayilsecurex.com
+| Feature | Details |
+|---|---|
+| ⚡ ML Ensemble | Isolation Forest + Extra Trees Regressor + Deep Autoencoder |
+| 📊 Feature Engineering | 20+ engineered network traffic features + StandardScaler |
+| 🚀 Backend | FastAPI REST API serving real-time predictions |
+| 📱 Mobile Client | Cross-platform React Native (Expo) app |
+| ☁️ Model Hosting | Versioned on HuggingFace Hub |
 
-🔗 Demo/Preview: https://yes-you-can-cyber-secure.vercel.app
+`Python` `FastAPI` `scikit-learn` `HuggingFace` `React Native` `Expo`
 
-Enterprise-grade Governance, Risk & Compliance platform tailored for African organizations
+---
 
-Key Contributions:
+### 🔐 ChayilSecureX — Enterprise Cybersecurity & GRC Platform *(Internship)*
+> **Enterprise-grade Governance, Risk & Compliance platform tailored for African organizations.**
 
-📊 Built interactive risk dashboards and reporting systems
-🔐 Implemented secure JWT authentication & role-based access control (RBAC)
-⚙️ Developed and integrated REST APIs for audit logs and compliance tracking
-🗄️ Optimized PostgreSQL schemas, queries, and migrations
-🚀 Participated in Agile development cycles with CI/CD deployment (Vercel)
+[![Platform](https://img.shields.io/badge/Platform-chayilsecurex.com-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.chayilsecurex.com)
+[![Preview](https://img.shields.io/badge/Preview-yes--you--can--cyber--secure.vercel.app-0E9F6E?style=for-the-badge&logo=vercel&logoColor=white)](https://yes-you-can-cyber-secure.vercel.app)
 
-Tech: React · Laravel · PostgreSQL · JWT · Vercel
+- 📊 Built interactive **risk dashboards** and compliance reporting systems
+- 🔐 Implemented **JWT authentication + Role-Based Access Control (RBAC)**
+- ⚙️ Developed REST APIs for **audit logs, compliance tracking**, and admin controls
+- 🗄️ Optimized **PostgreSQL** schemas, queries, and migrations
+- 🚀 Agile sprints with **CI/CD deployment via Vercel**
 
-🏦 Bankly — Mobile Banking Application
+`React` `Laravel` `PostgreSQL` `JWT` `RBAC` `Vercel`
 
-Secure and user-friendly mobile banking experience
+---
 
-🔐 Implemented secure authentication & protected routes
-🔗 Built RESTful APIs with Laravel and tested using Postman
-📱 Designed responsive mobile UI with Tailwind CSS
+### 🏦 Bankly — Full-Stack Mobile Banking App
+> **Secure and user-friendly mobile banking experience with authentication and RESTful APIs.**
 
-Tech: React Native · Laravel · MySQL · Tailwind CSS
+- 🔐 Encrypted credential handling and **protected routing**
+- 🔗 Built and tested **RESTful APIs** with Laravel and Postman
+- 📱 Responsive mobile UI with **Tailwind CSS**
 
-🚌 TrotroRent — Transport Rental Database System
+`React Native` `Laravel` `MySQL` `Tailwind CSS` `Postman`
 
-Scalable database system for Ghana’s transport rental ecosystem
+---
 
-🧩 Designed normalized schema with ER diagrams
-⚡ Implemented stored procedures, indexing, and query optimization
-🔒 Designed backup and recovery strategies
+### 🚌 TrotroRent — Transport Rental Database System
+> **Scalable, normalized database system for Ghana's transport rental ecosystem.**
 
-Tech: PostgreSQL · SQL · Database Design
+- 🧩 ER modeling, **normalization**, stored procedures, views, and indexing
+- 🔒 Backup and recovery strategies for data protection
 
-💻 Type 2 Hypervisor Simulation
+`PostgreSQL` `SQL` `Database Design`
 
-Low-level systems project simulating virtualization environments
+---
 
-🖥️ Built modular VM lifecycle simulation
-⚙️ Simulated hardware abstraction and virtualization logic
-🎨 Integrated UI using ImGui
+### 💻 Type 2 Hypervisor Simulation
+> **Low-level systems project simulating virtualization environments and VM lifecycle.**
 
-Tech: C++ · ImGui · Systems Programming
+- 🖥️ Modular VM lifecycle simulation with hardware abstraction
+- 🎨 ImGui-based visual interface
 
-🎓 Education & Certifications
-🎓 BSc. Computer Science (In Progress)
-Accra Institute of Technology · 2023 – Present
-🏅 Google Cybersecurity Certificate — Coursera · 2024
-📊 GitHub Stats
+`C++` `ImGui` `Systems Programming`
 
-📬 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/nathaniel-senior-kwafo-922214257
-💻 GitHub: https://github.com/fawwerty
-📧 Email: kwafonathanielsenior@gmail.com
+---
 
-📍 Dansoman, Accra, Ghana
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **BSc. Computer Science** *(In Progress)* | Accra Institute of Technology · 2023 – Present |
+| 🏅 **Google Cybersecurity Certificate** | Coursera · 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawwerty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwerty&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawwerty&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 What Makes Me Stand Out
+
+- 🧠 **Bridge between ML, Full-Stack & Cybersecurity** — rare combination in one engineer
+- ⚡ **Builds real, deployable systems** — not just tutorials or toy projects
+- 🔐 **Production security experience** — JWT, RBAC, GRC compliance platforms
+- 📱 **Mobile-first mindset** — React Native across multiple shipped apps
+- 🚀 **End-to-end ownership** — from database schema to mobile UI to ML inference
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathaniel-senior-kwafo-922214257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/fawwerty">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kwafonathanielsenior@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+*📍 Dansoman, Accra, Ghana · Open to remote opportunities worldwide*
+
+</div>
