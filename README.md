@@ -1,120 +1,120 @@
-# Nathaniel Senior Kwafo — Full-Stack Developer & ML Engineer
+🚀 Nathaniel Senior Kwafo
+Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast
 
-> Building practical applications at the intersection of software engineering, AI, and cybersecurity.
-> BSc. Computer Science · Accra Institute of Technology · Ghana 🇬🇭
+Building scalable, intelligent systems at the intersection of software engineering, AI, and cybersecurity
+🎓 BSc. Computer Science — Accra Institute of Technology, Ghana 🇬🇭
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I’m a results-driven full-stack developer and machine learning engineer focused on building real-world systems that solve practical problems.
 
-- Full-stack developer with experience across web, mobile, and ML systems
-- Recently built **CyberShield** — a real-time AI cyber threat detection system with an ensemble ML backend and React Native mobile app
-- Interned at a cybersecurity & GRC SaaS platform (ChayilSecureX), contributing to risk dashboards, auth systems, and API integrations
-- Exploring applied machine learning, anomaly detection, and AI-powered security tooling
-- Open to internships, junior roles, and collaborative projects in full-stack, ML, or cybersecurity
+🛡️ Built CyberShield — an AI-powered real-time cyber threat detection system
+🏢 Interned at ChayilSecureX, contributing to a production-grade GRC cybersecurity platform
+🤖 Strong interest in anomaly detection, applied ML, and AI-driven security systems
+⚡ Experienced across web, mobile, backend systems, and ML pipelines
+🌍 Open to internships, junior roles, and impactful collaborations globally
+🧰 Tech Stack
+🌐 Frontend
 
----
+React · React Native · Tailwind CSS · Bootstrap · Vite · HTML · CSS · JavaScript · TypeScript
 
-## 🧰 Tech Stack
+⚙️ Backend
 
-### 🌐 Frontend
-[![](https://skillicons.dev/icons?i=react,reactnative,tailwind,bootstrap,vite,html,css,js,ts)](https://skillicons.dev)
+Node.js · Express · Laravel · FastAPI · Python · JWT Auth
 
-### ⚙️ Backend
-[![](https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,python,jwt&perline=12)](https://skillicons.dev)
+🤖 Machine Learning
 
-### 🤖 ML & AI
-[![](https://skillicons.dev/icons?i=python&perline=12)](https://skillicons.dev)
-`scikit-learn` · `Isolation Forest` · `Extra Trees` · `Autoencoder` · `HuggingFace` · `StandardScaler`
+scikit-learn · Isolation Forest · Extra Trees · Autoencoders · HuggingFace · Feature Engineering
 
-### 🗄️ Databases
-[![](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&perline=12)](https://skillicons.dev)
+🗄️ Databases
 
-### 🚀 Deployment & Tools
-[![](https://skillicons.dev/icons?i=git,github,vercel,postman,docker,expo&perline=12)](https://skillicons.dev)
+PostgreSQL · MySQL · MongoDB · SQLite
 
-### 🎨 Design
-[![](https://skillicons.dev/icons?i=figma,canva,ps,ai&perline=5)](https://skillicons.dev)
+🚀 DevOps & Tools
 
----
+Git · GitHub · Docker · Vercel · Postman · Expo
 
-## 🚀 Projects
+🎨 Design
 
-### 🛡️ CyberShield — AI Cyber Threat Detection System
-> Real-time network intrusion detection using a 3-model ML ensemble, served via FastAPI and monitored from a mobile app.
+Figma · Canva · Adobe Photoshop · Illustrator
 
-- Built an ensemble inference engine: **Isolation Forest** (unsupervised) + **Extra Trees Regressor** (supervised) + **deep Autoencoder** (HuggingFace)
-- Analyzes 20 engineered network traffic features with StandardScaler preprocessing
-- FastAPI REST API serves predictions in real time to a cross-platform **Expo React Native** mobile app
-- Models versioned and hosted on **HuggingFace Hub**
+🚀 Featured Projects
+🛡️ CyberShield — AI Cyber Threat Detection System
 
-`Python` `FastAPI` `scikit-learn` `HuggingFace` `React Native` `Expo`
+🔗 Live App: https://cyber-shield-ai-cyber-threat-detect.vercel.app
 
----
+Real-time intrusion detection powered by an intelligent ML ensemble system
 
-### 🔐 ChayilSecureX — Cybersecurity & GRC SaaS Platform *(Internship)*
-> Ghana-based Governance, Risk & Compliance platform for African organizations.
+Key Highlights:
 
-- Built dashboard components, forms, and API integrations for risk reporting, audit logs, and admin controls
-- Implemented JWT authentication, user roles, and secure session handling
-- Optimized PostgreSQL schema, queries, and migrations
-- Worked in Agile sprints with CI/CD deployment via Vercel
+⚡ Built a multi-model ensemble system:
+Isolation Forest (unsupervised anomaly detection)
+Extra Trees (supervised learning)
+Deep Autoencoder (neural anomaly detection)
+📊 Processes 20+ engineered network traffic features with StandardScaler
+🚀 FastAPI backend serving real-time predictions
+📱 Integrated with React Native (Expo) mobile app
+☁️ Models versioned and deployed via HuggingFace Hub
 
-`React` `Laravel` `PostgreSQL` `JWT` `Vercel`
+Tech: Python · FastAPI · scikit-learn · HuggingFace · React Native · Expo
 
----
+🔐 ChayilSecureX — Enterprise Cybersecurity & GRC Platform
 
-### 🏦 Bankly — Full-Stack Finance Mobile App
-> Secure, user-friendly mobile banking app with authentication, responsive UI, and RESTful APIs.
+🔗 Live Platform: https://www.chayilsecurex.com
 
-- Secure authentication with encrypted credentials and protected routing
-- Built and tested RESTful APIs in Laravel with Postman
-- Responsive UI with Tailwind CSS
+🔗 Demo/Preview: https://yes-you-can-cyber-secure.vercel.app
 
-`React Native` `Laravel` `MySQL` `Tailwind CSS` `Postman`
+Enterprise-grade Governance, Risk & Compliance platform tailored for African organizations
 
----
+Key Contributions:
 
-### 🚌 TrotroRent — Transport Rental Database System
-> Normalized database system for Ghana's transport ecosystem.
+📊 Built interactive risk dashboards and reporting systems
+🔐 Implemented secure JWT authentication & role-based access control (RBAC)
+⚙️ Developed and integrated REST APIs for audit logs and compliance tracking
+🗄️ Optimized PostgreSQL schemas, queries, and migrations
+🚀 Participated in Agile development cycles with CI/CD deployment (Vercel)
 
-- Designed schema with ER diagrams, stored procedures, views, and indexing
-- Backup and recovery strategies for data protection
+Tech: React · Laravel · PostgreSQL · JWT · Vercel
 
-`PostgreSQL` `SQL` `Database Design`
+🏦 Bankly — Mobile Banking Application
 
----
+Secure and user-friendly mobile banking experience
 
-### 💻 Type 2 Hypervisor Simulation
-> Virtualization interface model simulating VM lifecycle and hardware behavior.
+🔐 Implemented secure authentication & protected routes
+🔗 Built RESTful APIs with Laravel and tested using Postman
+📱 Designed responsive mobile UI with Tailwind CSS
 
-- Simulated Type 2 hypervisor behavior with modular VM lifecycle components
-- Built with C++ and ImGui interface
+Tech: React Native · Laravel · MySQL · Tailwind CSS
 
-`C++` `ImGui` `Systems Programming`
+🚌 TrotroRent — Transport Rental Database System
 
----
+Scalable database system for Ghana’s transport rental ecosystem
 
-## 🎓 Education & Certifications
+🧩 Designed normalized schema with ER diagrams
+⚡ Implemented stored procedures, indexing, and query optimization
+🔒 Designed backup and recovery strategies
 
-| | |
-|---|---|
-| 🎓 BSc. Computer Science *(In Progress)* | Accra Institute of Technology · 2023 – Present |
-| 🏅 Google Cybersecurity Certificate | Coursera · 2024 |
+Tech: PostgreSQL · SQL · Database Design
 
----
+💻 Type 2 Hypervisor Simulation
 
-## 📊 GitHub Stats
+Low-level systems project simulating virtualization environments
 
-![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawwerty&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwerty&layout=compact&theme=default&hide_border=true)
+🖥️ Built modular VM lifecycle simulation
+⚙️ Simulated hardware abstraction and virtualization logic
+🎨 Integrated UI using ImGui
 
----
+Tech: C++ · ImGui · Systems Programming
 
-## 📬 Connect
+🎓 Education & Certifications
+🎓 BSc. Computer Science (In Progress)
+Accra Institute of Technology · 2023 – Present
+🏅 Google Cybersecurity Certificate — Coursera · 2024
+📊 GitHub Stats
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathaniel-senior-kwafo-922214257)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fawwerty)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kwafonathanielsenior@gmail.com)
+📬 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/nathaniel-senior-kwafo-922214257
+💻 GitHub: https://github.com/fawwerty
+📧 Email: kwafonathanielsenior@gmail.com
 
 📍 Dansoman, Accra, Ghana
